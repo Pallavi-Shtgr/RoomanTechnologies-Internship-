@@ -5,3 +5,12 @@
 
 # Output
 # The function returns an integer representing the user's age.
+
+def calculate_age(birth_year):
+    current_year = 2023
+    current_age = current_year - birth_year
+    return current_age
+
+birth_year = 2000  
+
+print("The current age is:", calculate_age(birth_year))
