@@ -1,3 +1,5 @@
+"""Day 01"""
+
 # Write a Python function add_numbers(num1, num2) that takes two integers as input and returns their sum.
 
 # Input:
