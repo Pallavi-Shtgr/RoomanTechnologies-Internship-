@@ -1,4 +1,4 @@
-"""Day 03"""
+"""Day 03 FUNCTIONS"""
 
 # Write a Python function calculate_area(length, width) that takes two inputs: two integers length and width, and returns the area of a rectangle.
 # Constraint

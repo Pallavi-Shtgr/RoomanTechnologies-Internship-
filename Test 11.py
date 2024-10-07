@@ -1,4 +1,4 @@
-"""Day 03"""
+"""Day 03 FUNCTIONS """
 
 # Write a Python function is in set(my_set, item) that takes a set my set and a variable item. The function should return True if the item exists in the set, otherwise return False.
 

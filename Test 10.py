@@ -1,4 +1,4 @@
-"""Day 03"""
+"""Day 03 FUNCTIONS"""
 
 # Write a Python function add_to_list(my list, item) that takes a list my list and an item item. The function should append the item to the list and return the updated list.
 # Constraint

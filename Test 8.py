@@ -1,4 +1,4 @@
-"""Day 03"""
+"""Day 03 FUNCTIONS"""
 
 # Write a Python function greet people(person dict) that takes a dictionary as input where each key is a string (the person's name) and each value is an integer (the person's age). 
 #  function should print a message for each name and age in the dictionary in the format: Hello, (name)! You are (age) years old.
