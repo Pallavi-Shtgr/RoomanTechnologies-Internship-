@@ -4,3 +4,23 @@
 # The current working directory.
 # A list of files in the current directory.
 # A confirmation message after creating a new directory called 'new_folder'.
+
+
+import os
+
+def file_system_opeartions()->dict:
+    result={}
+
+    current_directory=os.getcwd()
+
+    files=os.listdir(current_directory) 
+
+    new_directory='new_folder'
+    if not os.path.exists(new_directory):
+        os.mkdir(new_directory)
+
+    result['current_directory']=current_directory
+    result['files']=files
+    result['new_directory']='new_folder created'
+
+    return result
