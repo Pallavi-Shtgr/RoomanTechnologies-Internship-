@@ -1,3 +1,3 @@
 ﻿# PYTHON--ROOMAN-TECH
- python practise
+ python daily practise
  
