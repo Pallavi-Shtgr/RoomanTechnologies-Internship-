@@ -1,4 +1,4 @@
-"""Day 01"""
+"""Day 01 BASICS """
 
 #  Write a Python function calculate_age(birth_year) that takes the birth year as input and returns the current age based on the current year 2023.
 

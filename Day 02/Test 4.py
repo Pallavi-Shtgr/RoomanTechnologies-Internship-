@@ -1,4 +1,4 @@
-"""Day 02"""
+"""Day 02 CONTROL STRUCTURE"""
 
 # Write a Python function is prime_or_even_odd(n) that takes an integer n as input and performs the following:
 

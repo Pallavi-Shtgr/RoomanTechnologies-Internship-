@@ -1,4 +1,4 @@
-"""Day 02"""
+"""Day 02 CONTROL STRUCTURE"""
 
 # Write a Python function categorize_temperature(temp) that takes a temperature (in Celsius) as input and returns:
 

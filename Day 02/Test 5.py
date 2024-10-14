@@ -1,4 +1,4 @@
-"""Day 02"""
+"""Day 02 CONTROL STRUCTURE"""
 
 # Create a Python function grade(score) that takes a student's score (integer) as input and returns a grade as per the following rules:
 

@@ -1,4 +1,4 @@
-"""Day 01"""
+"""Day 01 BASICS"""
 
 # Write a Python function add_numbers(num1, num2) that takes two integers as input and returns their sum.
 

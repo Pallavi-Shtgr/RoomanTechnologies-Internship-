@@ -1,4 +1,4 @@
-"""Day 02"""
+"""Day 02 CONTROL STRUCTURE"""
 
 # Write a Python function multiplication table(number) that takes a number as input and prints its multiplication table from 1 to 10.
 # Constraint
