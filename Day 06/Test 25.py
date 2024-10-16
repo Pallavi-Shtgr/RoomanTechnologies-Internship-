@@ -5,7 +5,6 @@
 # 2. If the string exceeds 255 characters, return the message "Error: Input exceeds maximum length.".
 # 3. If the string contains any numeric characters, return the message "Error: Input contains invalid characters.".
 # 4. If none of the above conditions apply, return the message "Input processed successfully.".
-# 5. \
 # Program should handle all above scenarios by raising a CustomError 
 # Finally, ensure the message "Program execution completed." is always printed.
 
