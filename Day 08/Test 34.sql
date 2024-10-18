@@ -12,9 +12,7 @@
 --             "1984" | "George Orwell" | "Dystopian" | 1949
 
 -- Write a SQL query to retrieve all books
-
 -- Write a SQL query to delete the book with BookID = 2.
-
 -- Write a SQL query to retrieve all books. It should return only one row with BookID = 1.
 -- Constraint
 -- The table should be created from scratch.
