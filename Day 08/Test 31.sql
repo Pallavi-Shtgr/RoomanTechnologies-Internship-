@@ -6,9 +6,7 @@
 -- 3) Author (VARCHAR)
 -- 4) Genre (VARCHAR)
 -- 5) YearPublished (INT)
-
 -- After creating the table, write a SQL query to insert a new book with the following details:
-
 -- 1. Title: "The Alchemist"
 -- 2. Author: "Paulo Coelho"
 -- 3. Genre: "Fiction"
