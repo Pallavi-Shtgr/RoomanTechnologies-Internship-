@@ -13,7 +13,6 @@
 -- 4. Year Published: 1988
 
 -- Write a SQL query to retrieve all books
-
 -- Constraint
 -- The table should be created from scratch.
 -- The BookID should be auto-incremented.
