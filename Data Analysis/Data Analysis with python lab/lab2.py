@@ -1,6 +1,5 @@
 import numpy as np
 
-# Set a fixed seed for reproducibility
 np.random.seed(42)
 
 # Generate a 5x5 matrix with random numbers between 0 and 1
