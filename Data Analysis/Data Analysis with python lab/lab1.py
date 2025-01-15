@@ -6,7 +6,6 @@ data = {
     'Age': [24, 27, 32, 39, 29],
     'City': ['New York', 'Los Angeles', 'Chicago', 'Houston', 'Phoenix']
 }
-
 df = pd.DataFrame(data)
 
 # 1. Create the 'Age Group' column using pd.cut() with the categories '20s', '30s', '40s'
