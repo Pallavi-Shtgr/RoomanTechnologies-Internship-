@@ -8,7 +8,6 @@ data = {
 }
 df = pd.DataFrame(data)
 
-# 1. Create the 'Age Group' column using pd.cut() with the categories '20s', '30s', '40s'
 bins = [20, 29, 39, 49]  # Define the bin ranges for age groups
 labels = ['20s', '30s', '40s']  # Labels for the age groups
 df['Age Group'] = pd.cut(df['Age'], bins=bins, labels=labels, right=True, include_lowest=True)
