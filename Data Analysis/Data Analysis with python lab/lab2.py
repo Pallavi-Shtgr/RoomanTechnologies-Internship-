@@ -1,9 +1,20 @@
+# Use Pandas to modify a DataFrame and compute statistics.
+# Tasks:
+# 1. Create DataFrame: Construct with data:
+#         Name: ['Aditi', 'Rahul', 'Deepak', 'Priya', 'Vijay']
+#         Age: [25, 30, 35, 40, 45]
+#         City: ['Delhi', 'Mumbai', 'Bangalore', 'Hyderabad', 'Chennai']
+# 2. Add Column: Insert 'Age Group' categorizing by age ('20s', '30s', '40s') using pd.cut().
+# 3. Filter: Generate a DataFrame for individuals in their 30s.
+# 4. Statistics: Calculate and display mean, median, and variance of ages.
+# 1. The pandas library must be correctly installed and imported in the script.
+# 2. The data for creating the DataFrame must be provided in the exact format and order as listed in the problem description.
+# 3. The 'Age Group' column should be correctly inserted using the pd.cut() function and the age groups should be categorized as '20s', '30s' and '40s'.
+
 import numpy as np
 
-# Set a fixed seed for reproducibility
 np.random.seed(42)
 
-# Generate a 5x5 matrix with random numbers between 0 and 1
 matrix = np.random.rand(5, 5)
 
 print("Original Matrix:")
