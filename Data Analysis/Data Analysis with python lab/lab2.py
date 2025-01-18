@@ -1,5 +1,4 @@
 # Use Pandas to modify a DataFrame and compute statistics.
-# Tasks:
 # 1. Create DataFrame: Construct with data:
 #         Name: ['Aditi', 'Rahul', 'Deepak', 'Priya', 'Vijay']
 #         Age: [25, 30, 35, 40, 45]
