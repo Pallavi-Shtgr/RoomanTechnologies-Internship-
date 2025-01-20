@@ -7,7 +7,6 @@
 # Expected Output:
 # The upgrade_ram method should print the updated RAM value in the format: "RAM upgraded to <new_ram>GB".
 
-
 class Laptop:
     def __init__(self,brand:str,ram:int):
 
@@ -25,7 +24,6 @@ class Laptop:
             raise ValueError("Additional RAM must be a positive integer")
 
         self.ram+= additional_ram
-
         print(f"RAM upgraded to {self.ram}GB")
 
 laptop=Laptop("Dell",8)
