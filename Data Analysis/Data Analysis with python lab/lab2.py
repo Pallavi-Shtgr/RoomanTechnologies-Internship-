@@ -9,7 +9,6 @@
 # 1. The pandas library must be correctly installed and imported in the script.
 # 2. The data for creating the DataFrame must be provided in the exact format and order as listed in the problem description.
 # 3. The 'Age Group' column should be correctly inserted using the pd.cut() function and the age groups should be categorized as '20s', '30s' and '40s'.
-
 import numpy as np
 
 np.random.seed(42)
