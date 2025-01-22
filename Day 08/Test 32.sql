@@ -1,5 +1,4 @@
 """ DBMS """
-
 -- Create Table and Retrieve Books Published After 2000
 -- Question Text:
 
