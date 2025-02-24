@@ -12,4 +12,5 @@ def divide_numbers(num1, num2):
         return result
     except ZeroDivisionError:
         # Handle division by zero by returning an error message
+        
         return "Error: Division by zero is not allowed."
