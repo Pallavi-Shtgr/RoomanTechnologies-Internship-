@@ -46,7 +46,6 @@ public class FinancialReport {
             }
         }
         
-        // Close workbook and file input stream
         workbook.close();
         fis.close();
     }
